@@ -24,7 +24,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-### 👁️ People Who Have Seen This Profile:
+### 👁️ Profile Views:
 ![Visitor Count](https://profile-counter.glitch.me/liamg2810/count.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
