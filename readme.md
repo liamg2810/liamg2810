@@ -1,7 +1,7 @@
  # 💫 About Me:
 📖 I'm currently studying [software design](https://www.tlevels.gov.uk/students/subjects/digital-production-design-development) in college
 
-💼 I'm currently working on a [Chess game in react](https://github.com/liamg2810/chess-react)
+💼 I'm currently working on multiple smaller projects to learn more!
 
 ❓ My favourite framework is [Svelte](https://github.com/liamg2810?tab=repositories&q=&type=&language=svelte&sort=)
 
