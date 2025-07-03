@@ -4,7 +4,7 @@
 
 </div>
 
-📖 **Currently studying:** [Software Design](https://www.tlevels.gov.uk/students/subjects/digital-production-design-development) in college
+📖 **Currently studying:** [Software Development](https://www.tlevels.gov.uk/students/subjects/digital-production-design-development) in college
 
 💼 **Working on:** Multiple smaller projects to learn more!
 
