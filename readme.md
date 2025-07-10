@@ -86,16 +86,6 @@
 
 <div align="center">
 
-### 👁️ Profile Views
-
-<img src="https://profile-counter.glitch.me/liamg2810/count.svg" alt="Visitor Count" />
-
-</div>
-
----
-
-<div align="center">
-
 ### 🤝 Let's Connect!
 
 _Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on something awesome together._
