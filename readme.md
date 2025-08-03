@@ -8,7 +8,7 @@
 
 💼 **Working on:** Multiple smaller projects to learn more!
 
-❓ **Favourite framework:** [Svelte](https://github.com/liamg2810?tab=repositories&q=&type=&language=svelte&sort=)
+❓ **Favourite framework:** [Livewire](https://laravel-livewire.com/)
 
 <br/>
 
