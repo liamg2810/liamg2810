@@ -94,6 +94,6 @@ _Thanks for stopping by! Feel free to explore my repositories and don't hesitate
 
 ---
 
-_Made with ❤️ by Liam | Always learning, always building_
+_Made with ❤️ by Liam | Always learning, always building, always coding_
 
 </div>
