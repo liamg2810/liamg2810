@@ -58,24 +58,6 @@
 
 <div align="center">
 
-# 📊 GitHub Stats
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=liamg2810&theme=onedark&show_icons=true&hide_border=true&count_private=true" alt="Github Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liamg2810&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-
-</div>
-
----
-
-<div align="center">
-
 ### ✍️ Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
