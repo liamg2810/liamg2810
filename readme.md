@@ -4,9 +4,7 @@
 
 </div>
 
-📖 **Currently studying:** [Software Development](https://www.tlevels.gov.uk/students/subjects/digital-software-development) in college
-
-💼 **Working on:** Multiple smaller projects to learn more!
+💼 **Currently working in C#**
 
 ❓ **Favourite framework:** [Svelte](https://svelte.dev/)
 
